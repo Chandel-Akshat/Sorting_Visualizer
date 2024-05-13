@@ -23,20 +23,16 @@ Features:
 4) Time and Space complexity of algorithm being visualized.
 
 
-### To run the project on your local machine
+### To Run the Project Locally
 
-1. Download the project from the git repository
-    <ol>
-    <li>Download the project directly from the Git repository using the download option provided.</li>
-    </ol>
+1. **Download from Git Repository**:
+   - Download the project directly from the Git repository using the download option provided.
 
-2.  Clone the Repository:
-    <ol>
-    <li>Alternatively, you can clone the repository using the following command:
-    ```
-    git clone <repository_url>
-    ```
-    Replace <repository_url> with the actual URL of the Git repository.
+2. **Clone the Repository**:
+   - Alternatively, you can clone the repository using the following command:
+     ```bash
+     git clone <repository_url>
+     ```
+     Replace `<repository_url>` with the actual URL of the Git repository.
 
-    </li>
-    </ol>
+Ensure you have the necessary dependencies and configurations set up according to the project's documentation before running it locally.
