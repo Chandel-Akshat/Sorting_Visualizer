@@ -12,14 +12,14 @@ Implemented algorithms:
 
 Features:
 1) Colored representation of step being executed.
-<ol>
+<ol style="list-style-type:lower-roman">
   <li> Blue:default</li>
   <li> Yellow: Being compared</li>
   <li> Red: Identified as in incorrect position and to be moved</li>
   <li> Green: In correct position</li>
   </ol>
 2) 3 Controls for visualizations
-  <ol>
+  <ol style="list-style-type:lower-roman">
   <li> Speed of visualization (5 speed levels)</li>
   <li> Data size ()</li>
   <li> Generation of new data (Randomly generate new data).</li>
