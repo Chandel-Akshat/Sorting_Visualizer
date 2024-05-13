@@ -21,3 +21,22 @@ Features:
   2.2) Data size ()
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
+
+
+### To run the project on your local machine
+
+1. Download the project from the git repository
+    <ol>
+    <li>Download the project directly from the Git repository using the download option provided.</li>
+    </ol>
+
+2.  Clone the Repository:
+    <ol>
+    <li>Alternatively, you can clone the repository using the following command:
+    ```
+    git clone <repository_url>
+    ```
+    Replace <repository_url> with the actual URL of the Git repository.
+
+    </li>
+    </ol>
